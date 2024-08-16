@@ -1,4 +1,4 @@
-const btnEl = document.querySelector(".btn");
+const btnEl = document.querySelector(".signup");
 
 btnEl.addEventListener("mouseover", (event) => {
   const x = event.pageX - btnEl.offsetLeft;
